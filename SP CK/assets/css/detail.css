@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+body{   
+    background-color: #424040;
+
+}
+.nav-bar{
+    background-color: #062541;
+    display: flex;
+    align-items: center;
+    color: #C6C5C5;
+
+}
+.logo-icon{
+    padding-left: 100px;
+    
+}
+.nav-bar-item{
+    display: flex;
+}
+.nav-bar-box{
+    padding-left: 50px;
+}
+.nav-bar-box:hover{
+    color:red;
+}
+.background-detail{
+    
+    
+}
